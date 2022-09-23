@@ -9,8 +9,7 @@ You can check the child's growth information through the transmitted data and st
 
 ### Key Features
 ***
-
-Using ARCore API among Google APIs, you can determine which object is closer to the AR screen and use it to decorate virtual interiors that are more realistic and three-dimensional than existing AR applications. You can place/delete/rotate/move object or place multiple objects.
+Using ARCore API among Google APIs, you can detect the surroundings. Using OpenCV, the child's face and scale are detected, and toes of child are the standard. when you step on the scale.After that, when filmed with a camera, it measures children's height and transmits data related to children's height, weight, and Inbody to a mobile phone using Bluetooth, one of the underlying technologies of IoT.
 
 ### Experiment Environment
 ***
@@ -56,4 +55,4 @@ Library:
 </br>6. Correction : Full screen connection and modification
 
 # API
-
+***
