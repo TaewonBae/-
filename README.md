@@ -68,3 +68,4 @@ Various countermeasures were applied to solve this problem.
 </br>It's a primitive way.
 </br>It's a method of creating a separate layout for each screen size
 - Third, Set the value value for each dpi
+</br>Create dimens files by resolution, give them a margin value that fits the resolution, and then use the margin value that fits the user's smartphone resolution.
