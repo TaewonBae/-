@@ -35,9 +35,9 @@ implementation 'com.google.mlkit:object-detection:16.2.6'
 implementation 'com.google.mlkit:object-detection-custom:16.3.3'
     
 # Developer
-Park Se-Young
-syp9041@naver.com
-KwangWoon Univ Doctor's degree
+Park Sea-Young
+android5966@naver.com
+KwangWoon Univ adjunct professor
 
 Bae Tae-Won
 gerrard1283@naver.com
