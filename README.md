@@ -34,7 +34,8 @@ Library:
 </br>implementation 'com.google.mlkit:object-detection:16.2.6'
 </br>implementation 'com.google.mlkit:object-detection-custom:16.3.3'
     
-# Developer
+### Developer
+***
 </br>Park Sea-Young
 </br>android5966@naver.com
 </br>KwangWoon Univ adjunct professor
@@ -44,7 +45,8 @@ Library:
 </br>Gachon Univ Bachelor's degree 
 
 
-# Schedule UI/UX
+### Schedule UI/UX
+***
 </br>We divided the development schedule into six stages.
 </br>1. Start : Loading screen / Login / Registration / Add user
 </br>2. Settings : Announcement / Frequently Asked Questions / Family Information Modification / Account Management
