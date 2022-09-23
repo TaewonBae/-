@@ -67,3 +67,5 @@ Due to the nature of using the relative position rather than the absolute positi
 Some errors are allowed and a simple layout can solve the problem by using Constraint Layout 
 Due to the nature of the app I'm making now, it's accurate. This alone was problematic because the location was required.
 - 2. Second, Split layout by dpi
+It's a primitive way.
+It's a method of creating a separate layout for each screen size
