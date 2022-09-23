@@ -13,7 +13,7 @@ You can check the child's growth information through the transmitted data and st
 Using ARCore API among Google APIs, you can determine which object is closer to the AR screen and use it to decorate virtual interiors that are more realistic and three-dimensional than existing AR applications. You can place/delete/rotate/move object or place multiple objects.
 
 ### Experiment Environment
-
+***
 Device: Galaxy A80, Galaxy Note20
 
 Installation Environment: Android Studio
