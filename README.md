@@ -61,9 +61,10 @@ Library:
 ***
 Android has various resolutions for each device, so the location of widgets varies slightly for each smartphone.
 Various countermeasures were applied to solve this problem.
-- 1. First, we used Constraint Layout.
+- First, we used Constraint Layout.
 </br>The most basic thing to do first is to use Constraint Layout.
 </br>Due to the nature of using the relative position rather than the absolute position, it seems that the phenomenon such as screen truncation is relatively less than that of using other layouts.
-- 2. Second, Split layout by dpi
+- Second, Split layout by dpi
 </br>It's a primitive way.
 </br>It's a method of creating a separate layout for each screen size
+- Third, Set the value value for each dpi
