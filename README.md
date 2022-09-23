@@ -10,11 +10,11 @@ You can check the child's growth information through the transmitted data and st
 ### Key Features
 ***
 
-Using ARCore's Depth API among Google APIs, you can determine which object is closer to the AR screen and use it to decorate virtual interiors that are more realistic and three-dimensional than existing AR applications. You can place/delete/rotate/move object or place multiple objects.
+Using ARCore API among Google APIs, you can determine which object is closer to the AR screen and use it to decorate virtual interiors that are more realistic and three-dimensional than existing AR applications. You can place/delete/rotate/move object or place multiple objects.
 
 ### Experiment Environment
 
-Device: Galaxy A80
+Device: Galaxy A80, Galaxy Note20
 
 Installation Environment: Android Studio
 
@@ -35,15 +35,23 @@ Library:
 </br>implementation 'com.google.mlkit:object-detection-custom:16.3.3'
     
 # Developer
-Park Sea-Young
-android5966@naver.com
-KwangWoon Univ adjunct professor
+</br>Park Sea-Young
+</br>android5966@naver.com
+</br>KwangWoon Univ adjunct professor
 
-Bae Tae-Won
-gerrard1283@naver.com
-Gachon Univ Bachelor's degree 
+</br>Bae Tae-Won
+</br>gerrard1283@naver.com
+</br>Gachon Univ Bachelor's degree 
 
 
+# Schedule UI/UX
+</br>We divided the development schedule into six stages.
+</br>1. Start : Loading screen / Login / Registration / Add user
+</br>2. Settings : Announcement / Frequently Asked Questions / Family Information Modification / Account Management
+</br>3. Home : My Page / Tip / Chart
+</br>4. Challenge : Challenge main / record / additional slot / detailed screen (challenge creation)
+</br>5. Camera : Tutorial / Filming screen, etc
+</br>6. Correction : Full screen connection and modification
 
 # API
 
