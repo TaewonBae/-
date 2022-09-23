@@ -19,20 +19,20 @@ Device: Galaxy A80
 Installation Environment: Android Studio
 
 Library:
-implementation 'de.hdodenhof:circleimageview:3.1.0'
-implementation 'com.readystatesoftware.sqliteasset:sqliteassethelper:+'
-implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
-implementation 'de.javagl:obj:0.2.1'
-implementation 'com.google.android.material:material:1.0.0'
-implementation 'com.google.ar:core:1.18.0'
-implementation 'com.google.ar.sceneform:core:1.15.0'
-implementation "com.google.ar.sceneform.ux:sceneform-ux:1.15.0"
-implementation 'com.google.mlkit:face-detection:16.1.2'
-implementation 'com.google.mlkit:camera:16.0.0-beta1'
-implementation 'com.google.mlkit:pose-detection:17.0.1-beta4'
-implementation 'com.google.mlkit:pose-detection-accurate:17.0.1-beta4'
-implementation 'com.google.mlkit:object-detection:16.2.6'
-implementation 'com.google.mlkit:object-detection-custom:16.3.3'
+</br>implementation 'de.hdodenhof:circleimageview:3.1.0'
+</br>implementation 'com.readystatesoftware.sqliteasset:sqliteassethelper:+'
+</br>implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
+</br>implementation 'de.javagl:obj:0.2.1'
+</br>implementation 'com.google.android.material:material:1.0.0'
+</br>implementation 'com.google.ar:core:1.18.0'
+</br>implementation 'com.google.ar.sceneform:core:1.15.0'
+</br>implementation "com.google.ar.sceneform.ux:sceneform-ux:1.15.0"
+</br>implementation 'com.google.mlkit:face-detection:16.1.2'
+</br>implementation 'com.google.mlkit:camera:16.0.0-beta1'
+</br>implementation 'com.google.mlkit:pose-detection:17.0.1-beta4'
+</br>implementation 'com.google.mlkit:pose-detection-accurate:17.0.1-beta4'
+</br>implementation 'com.google.mlkit:object-detection:16.2.6'
+</br>implementation 'com.google.mlkit:object-detection-custom:16.3.3'
     
 # Developer
 Park Sea-Young
