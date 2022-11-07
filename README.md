@@ -6,10 +6,13 @@
 
 To briefly explain this app, when children go up to the scale and press the camera shoot button, they measure their height, weight, body composition, and body fat amount and send it to their phones through Bluetooth sensors.
 You can check the child's growth information through the transmitted data and store the data to see the past growth process at a glance.
+이 앱을 간단히 설명하면, 아이들이 체중계에 올라가 카메라 촬영 버튼을 누르면 키와 몸무게, 체성분, 체지방량 등을 측정해 블루투스 센서를 통해 휴대전화로 전송합니다.
+전송된 데이터를 통해 아이의 성장 정보를 확인하고 데이터를 저장해 과거의 성장 과정을 한눈에 볼 수 있습니다.
 
 ### Key Features
 ***
 Using ARCore API among Google APIs, you can detect the surroundings. Using OpenCV, the child's face and scale are detected, and toes of child are the standard. when you step on the scale.After that, when filmed with a camera, it measures children's height and transmits data related to children's height, weight, and Inbody to a mobile phone using Bluetooth, one of the underlying technologies of IoT.
+Google API중 ARCore를 이용하여 주변 환경을 detection합니다. 그후 openCV를 이용하여 아이들의 얼굴과 체중계가 detection되고, 아이가 체중계에 올라서면 발끝부터 머리까지 기준이됩니다. 카메라 촬영버튼을 누르면 아이의 키를 측정하고 IoT 기반 기술 중 하나인 블루투스를 이용해 아이의 키, 몸무게, 인바디 관련 데이터를 휴대전화로 전송한다.
 
 ### Experiment Environment
 ***
